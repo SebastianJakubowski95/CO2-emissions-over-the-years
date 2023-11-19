@@ -37,7 +37,7 @@ The increase in world carbon dioxide emissions can be divided into two periods. 
 
 ![Screenshot](world-population-and-co2-emission.png)
 
-Carbon dioxide emissions have slowed since 2010, but they are still increasing by 2 million tons every 10 years. The global population is also continuing to grow, making it challenging to reduce greenhouse gas emissions.
+Carbon dioxide emissions have slowed since 2010, but they are still increasing by 2 mld tons every 10 years. The global population is also continuing to grow, making it challenging to reduce greenhouse gas emissions.
 
 ## 3) Carbon dioxide emissions for chosen countries
 
